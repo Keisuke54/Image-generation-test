@@ -1,4 +1,5 @@
 # Code run on Kaggle due to '.DS_Store' issue when accessing directory 
+# https://www.kaggle.com/code/keisukenakamura54/txttoimage-test-sequence
 
 import numpy as np
 import tensorflow as tf
